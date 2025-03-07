@@ -113,10 +113,10 @@ footer {
   max-width: 200px;
   min-height: 300px;
 }
-.bottom-footer .container {
+/* .bottom-footer .container {
   display: flex;
   justify-content: space-between;
-}
+} */
 .container.appendix {
   display: flex;
   background-color: #7effd4;
@@ -126,7 +126,5 @@ footer {
 .box.foot {
   margin: 0;
   flex-grow: 0;
-  width: 100px;
   background-color: #ffb7c2;
-  justify-content: space-between;
 }
